@@ -35,6 +35,13 @@ Used this links
    - `getPlayer` (returns the `player` object)️
    - `getDealer` (returns the `dealer` object)️
    - `getDeck` (returns the `deck` object)
+7. In the [constructor] do the following: ❌
+   need to start it
+   - Instantiate the Player class twice, insert it into the `player` property and a `dealer` property.
+   - Create a new [`deck` object] (code has already been written!).
+   - Shuffle the cards with `shuffle` method on `deck`.
 
 
-
+restarted and read the whole excercises to understand it and better. Also googled some links to.
+https://www.tutorialspoint.com/what-are-getters-and-setters-methods-in-php
+https://www.youtube.com/watch?v=Eu7l8utquGY

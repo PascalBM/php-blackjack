@@ -9,12 +9,12 @@ class Blackjack
 
     // Public Methods
     public function player() {
-        return $this->player;
+        return $player;
     }
     public function getDealer() {
-        return $this->dealer;
+        return $dealer;
     }
     public function getPlayer() {
-        return $this->deck;
+        return $deck;
     }
 }
