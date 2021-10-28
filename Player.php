@@ -1,6 +1,6 @@
 <?php
-class player {
-    // Properties
+class Player {
+    // Public Properties
     public $cards = array();
     public $lost = false;
 

@@ -2,7 +2,7 @@
 
 class Blackjack
 {
-// Properties
+// Private Properties
     private $player;
     private $dealer;
     private $deck;
