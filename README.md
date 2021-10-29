@@ -62,12 +62,15 @@ Used this links
      This sets the property `lost` in the `player` instance to true.
    - `stand` does not have a method in the player class but will instead call hit on the `dealer` instance. (you have to do nothing here)
 
-## M
+## How did it go?
 
 #### Day 1
-
-exercise 7 was really hard to understand because i didn't read it well. after reading it once more and writing it down. It was more clear to me how the constructor work.
+Following the instructions until exercise 7 went well. The instructions were clear and the links were useful to understand how objects and classes works in php. It was a lot of information for an introduction for the first time OPP. 
+Exercise 7 was really hard to understand because I didn't read it well. After reading the once more and writing it down. It was more clear to me how the constructor work. There was also a faq where they explained what they mean with initiate.
 
 #### Day 2
 
-The exercise went quite slow from now 
+The exercises went quite slow after struggling with the exercise 7-9 I lost to much time by figuring it out and trying to understand it. I also asked the others for help and tips.
+
+## Conclusion?
+It was an amazing project to introduce you to OPP in PHP and an enjoyable game. ☺
