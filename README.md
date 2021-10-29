@@ -66,8 +66,8 @@ Used this links
 
 #### Day 1
 
-excerscive 7 was really hard to understand because i didn't read it well. after reading it once more and writing it down. It was more clear to me how the constructor work.
+exercise 7 was really hard to understand because i didn't read it well. after reading it once more and writing it down. It was more clear to me how the constructor work.
 
 #### Day 2
 
-The excersices went quite slow from now 
+The exercise went quite slow from now 
