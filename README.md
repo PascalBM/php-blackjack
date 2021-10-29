@@ -65,12 +65,12 @@ Used this links
 ## How did it go?
 
 #### Day 1
-Following the instructions until exercise 7 went well. The instructions were clear and the links were useful to understand how objects and classes works in php. It was a lot of information for an introduction for the first time OPP. 
-Exercise 7 was really hard to understand because I didn't read it well. After reading the once more and writing it down. It was more clear to me how the constructor work. There was also a faq where they explained what they mean with initiate.
+Following the instructions until exercise 7 went well. The instructions were clear and the links were useful to understand how objects and classes works in php. It was a lot of information for an introduction to OPP. 
+Exercise 7 was really hard to understand because I didn't read it well. After reading the exercise once more and writing it down. It was more clear to me how the constructor work. There was also a faq where they explained what they mean with initiate.
 
 #### Day 2
 
-The exercises went quite slow after struggling with the exercise 7-9 I lost to much time by figuring it out and trying to understand it. I also asked the others for help and tips.
+The exercises went quite slow after struggling with the exercise 7-9 I lost too much time by figuring it out and trying to understand it. I also asked the others for help and tips.
 
 ## Conclusion?
 It was an amazing project to introduce you to OPP in PHP and an enjoyable game. ☺
