@@ -7,6 +7,7 @@ class Blackjack
     private Dealer $dealer;
     private Deck $deck;
 
+    // Player construction
     public function __construct()
     {
         $this->deck = new Deck();
