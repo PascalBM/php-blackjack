@@ -3,12 +3,19 @@
 class Blackjack
 {
 // Private Properties
-    private $player;
-    private $dealer;
-    private $deck;
+    private Player $player;
+    private Dealer $dealer;
+    private Deck $deck;
 
+    public function __construct()
+    {
+        $this->deck = new Deck();
+        $this->deck->shuffle();
+        $this->player = new Player($this->deck);
+        $this->deck = new Player($this->deck);
+    }
     // Public Methods
-    public function player() {
+    public function Player() {
         return $player;
     }
     public function getDealer() {
@@ -18,3 +25,4 @@ class Blackjack
         return $deck;
     }
 }
+
